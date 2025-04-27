@@ -1,1 +1,1 @@
-# EnterocociAMR-RNAseq
+# EnterococciAMR-RNAseq
